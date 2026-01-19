@@ -9,3 +9,4 @@
 3. bun run build 
 
 search "composite" you can find code.
+it seems like a worker issue. parceljs: https://parceljs.org/languages/javascript/#web-workers
